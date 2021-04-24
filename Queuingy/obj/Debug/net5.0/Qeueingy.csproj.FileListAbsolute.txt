@@ -1,0 +1,11 @@
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\Qeueingy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\Qeueingy.AssemblyInfoInputs.cache
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\Qeueingy.AssemblyInfo.cs
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\Qeueingy.csproj.CoreCompileInputs.cache
+C:\Users\ixime\source\repos\Qeueingy\bin\Debug\net5.0\Qeueingy.deps.json
+C:\Users\ixime\source\repos\Qeueingy\bin\Debug\net5.0\Qeueingy.dll
+C:\Users\ixime\source\repos\Qeueingy\bin\Debug\net5.0\ref\Qeueingy.dll
+C:\Users\ixime\source\repos\Qeueingy\bin\Debug\net5.0\Qeueingy.pdb
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\Qeueingy.dll
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\ref\Qeueingy.dll
+C:\Users\ixime\source\repos\Qeueingy\obj\Debug\net5.0\Qeueingy.pdb
